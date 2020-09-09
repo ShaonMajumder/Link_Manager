@@ -1,0 +1,6 @@
+Last link loop dont break if empty then breaks
+Button :: Done: Save to Done
+	  Bounce: Save to Bounce
+Go to next page from link
+
+Button :: Record Link: Click to save link
